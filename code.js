@@ -1,3 +1,4 @@
+//Note: I wrote this code from scratch and then confirmed it with my code from last semester, this time I was trying to be more concise with code
 function fib(n) {
     let arr = [0,1]
 
